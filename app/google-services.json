@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000830399865",
+    "project_id": "e-cuan1",
+    "storage_bucket": "e-cuan1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000830399865:android:f61bda4671a185a10c2ba8",
+        "android_client_info": {
+          "package_name": "com.example.e_cuan1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIszkvo__Pr3AA--mz2I_OTdmC6pFtVCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

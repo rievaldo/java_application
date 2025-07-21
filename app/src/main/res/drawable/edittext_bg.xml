@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#EEEEEE"/> <!-- Warna background EditText -->
+    <corners android:radius="8dp"/> <!-- Sudut melengkung -->
+</shape>
