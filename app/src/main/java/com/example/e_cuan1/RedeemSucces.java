@@ -1,4 +1,4 @@
 package com.example.e_cuan1;
 
-public class Profile {
+public class RedeemSucces {
 }
